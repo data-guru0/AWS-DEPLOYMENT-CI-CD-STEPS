@@ -32,7 +32,7 @@ RUN mkdir -p /var/lib/docker
 VOLUME /var/lib/docker
 
 # Switch back to the Jenkins user
-USER Jenkins
+USER jenkins
 ```
 
 ---
